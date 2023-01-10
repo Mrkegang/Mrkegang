@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ![GithubStats](https://github-readme-stats.vercel.app/api?username=Mrkegang&show_icons=true&theme=dark&count_private=true)
 - ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkegang&theme=dark&layout=compact)
 
-![code](https://github.com/Mrkegang/Mrkegang/blob/main/code.gif)
+<img src="[D:\All-Software\系统辅助文件夹\桌面\code.gif](https://github.com/Mrkegang/Mrkegang/blob/main/code.gif)" alt="code" style="zoom:50%;" />
