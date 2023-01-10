@@ -1,7 +1,7 @@
 ### Hi 这是我的代码仓库 👋
 
 Here are some ideas to get you started:
-
+<img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ![GithubStats](https://github-readme-stats.vercel.app/api?username=Mrkegang&show_icons=true&theme=dark&count_private=true)
 - ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkegang&theme=dark&layout=compact)
-<img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
+
