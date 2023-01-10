@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ![GithubStats](https://github-readme-stats.vercel.app/api?username=Mrkegang&show_icons=true&theme=dark&count_private=true)
 - ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrkegang&theme=dark&layout=compact)
+https://github.com/Mrkegang/Mrkegang/blob/main/code.gif
