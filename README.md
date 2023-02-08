@@ -5,5 +5,4 @@
 
 **个人网站与技术社区：**
 - [Mrkegang-个人网站](https://kgstudy.cn)
-- 
 <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
